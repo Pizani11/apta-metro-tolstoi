@@ -1,0 +1,5 @@
+{
+  "name": "apta-metro-tolstoi",
+  "version": "1.0.0",
+  "scripts": {"dev": "next dev"}
+}
